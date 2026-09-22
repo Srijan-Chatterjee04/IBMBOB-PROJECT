@@ -1,0 +1,33 @@
+# ============================================================
+# House Price Prediction Project
+# Author : Srijan Chatterjee
+# File   : requirements.txt
+# ============================================================
+
+# Data manipulation
+pandas==2.1.4
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.4.0
+joblib==1.3.2
+
+# Visualisation
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# Web Backend (Flask API)
+flask==3.0.2
+flask-cors==4.0.0
+
+# Web Frontend (Streamlit UI)
+streamlit==1.32.0
+requests==2.31.0
+
+# Report Generation
+python-docx==1.1.0
+Pillow==10.2.0
+
+# Jupyter Notebook
+notebook==7.1.0
+ipykernel==6.29.0
